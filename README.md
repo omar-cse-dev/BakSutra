@@ -45,7 +45,7 @@
 ### 9. Fully Responsive & Mobile-Optimized / রেসপন্সিভ ডিজাইন
 * **Cross-Device Support:** ডেসকটপ, ল্যাপটপ, ট্যাবলেট এবং স্মার্টফোনে মসৃণভাবে চলার উপযোগী। (Optimized for desktop browsers, laptops, tablets, and smartphones.)
 * **Mobile-Safe Logic:** মোবাইল ব্রাউজারে টাইপিংয়ের সময় লেখা বারবার রিপিট হওয়া থেকে রোধ করার লজিক যুক্ত করা হয়েছে। (Custom JavaScript handling prevents duplicate text insertion on mobile browsers.)
-
+### Web site link;https://baksutra.netlify.app/
 ---
 
 ## 👨‍💻 Developer Information / ডেভেলপার পরিচিতি
